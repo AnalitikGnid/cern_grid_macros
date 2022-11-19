@@ -9,4 +9,4 @@ This repository contains:
 * __auto_res.py__ file, that automatically resubmits jobs (master and not) every ___given time___
 * __ran.py__ file, for more details see below
 ## Notice
-All programms work in AliPhysics enveironment
+All programms work in __AliPhysics__ enveironment
