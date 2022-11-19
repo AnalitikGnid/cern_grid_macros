@@ -1,6 +1,6 @@
 # Macros for CERN Grid
 ## Description
-This repository contains python codes used to manage your jobs in AliMonitor, ALICE (CERN)
+This repository contains python codes used to manage jobs in AliMonitor, ALICE (CERN)
 ## Repository Content
 This repository contains:
 * this __README__ file;
@@ -11,6 +11,6 @@ This repository contains:
 ## Notice
 All programms work in __AliPhysics__ environment
 ## __ran__ 
-This files help you carry out your analysis.
-We had to run runAnalysis.C file 3 times to get data. Furthermore, each time it is necessary to wait for tasks in grid to complete. 
-This programm does it by itself
+This files help us carry out our analysis.
+We had to run runAnalysis.C (macros) file 3 times with different settings to get data. Furthermore, each time it is necessary to wait for tasks in grid to complete. 
+This programm does it by itself.
