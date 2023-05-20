@@ -7,6 +7,7 @@ This repository contains:
 * __kill_all.py__ file, that kills all your masterjobs;
 * __kill_ch.py__ file, that kills masterjobs with ___given status___;
 * __auto_res.py__ file, that automatically resubmits jobs (master and not) every ___given time___;
+* __auto_res_error.py__ file, that automatically resubmits jobs with given error type (master and not) every ___given time___;
 * __ran_analysis__ directory, for more details see below;
 ## Notice
 All programms work in __AliPhysics__ environment
